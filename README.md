@@ -25,24 +25,6 @@
 
 ---
 
-### Active Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **IEEE Event Platform** | Full-stack event management for 14 IEEE societies. QR check-in, UPI payment verification, automated email workflows, multi-society analytics. | TypeScript, Appwrite, Docker |
-| **MuLearn SCET** | Campus platform serving 1,000+ students. Real-time leaderboards, automated workshop registration, dynamic team showcases. | Next.js, Appwrite, Docker |
-| **VisionHack Portal** | Hackathon submission platform handling 1,250+ teams across 250 colleges. Cascade invite system, bulk CSV onboarding, real-time leaderboard. | Next.js, Appwrite, Docker, Oracle Cloud ARM |
-
-### Side Projects
-
-| Project | Description |
-|---------|-------------|
-| **Stateless UPI Gateway** | Serverless payment gateway on Cloudflare Workers. Dynamic decimal matching, edge WebSocket proxy, Appwrite backend. |
-| **CodeResidency** | AI-driven clinical rotation simulator. 5-phase assessment pipeline using LangChain, Gemini API, and Docker sandbox. |
-| **AlertHub** | Flutter issue-reporting app. Firebase authentication, image uploads, department-based routing. |
-
----
-
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Phloraxx&show_icons=true&hide_border=true&bg_color=00000000&text_color=586069&icon_color=0366d6&title_color=24292e">
     <img src="https://github-readme-stats.vercel.app/api?username=Phloraxx&show_icons=true&hide_border=true&bg_color=00000000&text_color=586069&icon_color=0366d6&title_color=24292e" height="160" />
@@ -58,7 +40,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Phloraxx">GitHub</a> &middot;
-  <a href="https://linkedin.com/in/SouravPBijoy">LinkedIn</a> &middot;
-  <a href="mailto:souravpbijoy@gmail.com">souravpbijoy@gmail.com</a>
+  <a href="https://github.com/Phloraxx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/SouravPBijoy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:souravpbijoy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
