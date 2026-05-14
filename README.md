@@ -2,17 +2,17 @@
 
 Full Stack Developer and DevOps enthusiast passionate about architecting and deploying scalable digital ecosystems. Experienced in containerized cloud infrastructure, serverless architectures, and integrating AI/ML capabilities into production environments.
 
-Student at **Sahrdaya College of Engineering and Technology**. Building the event infrastructure for **IEEE Sahrdaya** (14 societies) and the digital presence for **MuLearn SCET** (1,000+ students).
+Student at **Sahrdaya College of Engineering and Technology**. Building the event infrastructure for **IEEE Sahrdaya** and the digital presence for **MuLearn SCET**.
 
 ---
 
 ### Active Projects
 
-[**IEEE Event Management**](https://ieeesahrdaya.com) — Full event platform serving 14 IEEE technical societies. QR check-in, UPI payment verification, automated email workflows, analytics dashboard.
+[**IEEE Event Management**](https://ieeesahrdaya.com) — Full event platform serving IEEE technical societies. QR check-in, UPI payment verification, automated email workflows, analytics dashboard.
 
 [**MuLearn SCET**](https://mulearnscet.in) — Campus club website with karma-based task management, peer review workflow, leaderboard, and Karma War registration.
 
-[**VisionHack Portal**](https://portal.mulearn.org) — Hackathon submission system with cascade inviting, bulk CSV onboarding, and idea submission workflow. Powered Vision Hack 2026.
+[**VisionHack Portal**](https://portal.mulearn.org) — Hackathon submission system with cascade inviting, bulk CSV onboarding, and idea submission workflow.
 
 ### Side Projects
 
