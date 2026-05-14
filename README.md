@@ -1,11 +1,3 @@
-```
-  ____                     __      __        _
- / ___| _   _  ___ ___   _ \ \    / /__  ___(_)_ __
- \___ \| | | |/ __/ __| | | \ \/\/ / _ \/ __| | '__|
-  ___) | |_| | (_| (__| |_| |\    / (_) \__ \ | |
- |____/ \__,_|\___\___|\__,_| \/\/ \___/|___/_|_|
-```
-
 **Sourav P Bijoy** — Full Stack Developer and DevOps Engineer.
 I architect and deploy systems at the intersection of infrastructure and product.
 
