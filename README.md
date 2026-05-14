@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Sourav%20P%20Bijoy&fontAlign=50&fontAlignY=35&fontSize=40&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descAlign=50&descSize=15&descAlignY=55&fontColor=ffffff" />
 </p>
 
