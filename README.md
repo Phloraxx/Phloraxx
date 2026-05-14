@@ -1,46 +1,39 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a1a2e,50:16213e,100:0f3460&text=Sourav%20P%20Bijoy&fontAlign=50&fontAlignY=35&fontSize=40&desc=Full%20Stack%20Developer%20%26%20DevOps%20Engineer&descAlign=50&descSize=15&descAlignY=55&fontColor=ffffff" />
-</p>
+## Sourav P Bijoy
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=800&color=586069&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+and+DevOps+Engineer;Building+platforms+that+serve+thousands;TypeScript+%7C+React+%7C+Next.js+%7C+Docker+%7C+Cloud" alt="Typing SVG" />
-  </a>
-</p>
+Full Stack Developer and DevOps enthusiast passionate about architecting and deploying scalable digital ecosystems. Experienced in containerized cloud infrastructure, serverless architectures, and integrating AI/ML capabilities into production environments.
+
+Student at **Sahrdaya College of Engineering and Technology**. Building the event infrastructure for **IEEE Sahrdaya** (14 societies) and the digital presence for **MuLearn SCET** (1,000+ students).
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### Active Projects
+
+[**IEEE Event Management**](https://ieeesahrdaya.com) — Full event platform serving 14 IEEE technical societies. QR check-in, UPI payment verification, automated email workflows, analytics dashboard.
+
+[**MuLearn SCET**](https://mulearnscet.in) — Campus club website with karma-based task management, peer review workflow, leaderboard, and Karma War registration.
+
+[**VisionHack Portal**](https://portal.mulearn.org) — Hackathon submission system with cascade inviting, bulk CSV onboarding, and idea submission workflow. Powered Vision Hack 2026.
+
+### Side Projects
+
+[**Payment API**](https://github.com/Phloraxx/payment-api) — Stateless UPI payment gateway on Cloudflare Workers with dynamic decimal matching and edge WebSocket proxy.
+
+[**CodeResidency**](https://github.com/Phloraxx/CodeResidency) — AI-driven clinical rotation simulator for CS students using LangChain, Gemini API, and Docker sandbox.
+
+[**V2V Traffic Simulation**](https://github.com/Phloraxx/V2V-Traffic-Simulation) — AI-optimized traffic simulation with collision detection and emergency vehicle priority.
+
+[**AlertHub**](https://github.com/Phloraxx/alerthub) — Flutter issue-reporting app with Firebase authentication and department routing.
 
 ---
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Phloraxx&show_icons=true&hide_border=true&bg_color=00000000&text_color=586069&icon_color=0366d6&title_color=24292e">
-    <img src="https://github-readme-stats.vercel.app/api?username=Phloraxx&show_icons=true&hide_border=true&bg_color=00000000&text_color=586069&icon_color=0366d6&title_color=24292e" height="160" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=Phloraxx&hide_border=true&background=00000000&stroke=586069&ring=0366d6&fire=0366d6&currStreakLabel=24292e">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Phloraxx&hide_border=true&background=00000000&stroke=586069&ring=0366d6&fire=0366d6&currStreakLabel=24292e" height="160" />
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Phloraxx&layout=compact&hide_border=true&bg_color=00000000&text_color=586069&title_color=24292e">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phloraxx&layout=compact&hide_border=true&bg_color=00000000&text_color=586069&title_color=24292e" height="160" />
-  </a>
-</p>
+### Tech
+
+`TypeScript` `React` `Next.js` `Python` `Cloudflare Workers` `Appwrite` `Docker` `FastAPI` `Flask` `LangChain` `PostgreSQL` `Redis`
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Phloraxx"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/SouravPBijoy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:souravpbijoy@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### Links
+
+[LinkedIn](https://linkedin.com/in/SouravPBijoy) | [Email](mailto:souravpbijoy@gmail.com) | [GitHub](https://github.com/Phloraxx)
+
+
