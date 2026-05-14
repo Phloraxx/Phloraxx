@@ -1,34 +1,44 @@
-## Sourav P Bijoy
+```
+  ____                     __      __        _
+ / ___| _   _  ___ ___   _ \ \    / /__  ___(_)_ __
+ \___ \| | | |/ __/ __| | | \ \/\/ / _ \/ __| | '__|
+  ___) | |_| | (_| (__| |_| |\    / (_) \__ \ | |
+ |____/ \__,_|\___\___|\__,_| \/\/ \___/|___/_|_|
+```
 
-Building systems at the intersection of infrastructure and product. I care about clean architecture, deployment workflows, and making things that actually ship.
-
-Student at **Sahrdaya College of Engineering & Technology**. Previously built the event infrastructure for **IEEE Sahrdaya** (14 societies, 2000+ registrations) and the digital presence for **MuLearn SCET** (1000+ students).
-
-Interested in system architecture, DevOps workflows, serverless infrastructure (Cloudflare Workers, Appwrite), and full-stack TypeScript.
+**Sourav P Bijoy** — Full Stack Developer and DevOps Engineer.
+I architect and deploy systems at the intersection of infrastructure and product.
 
 ---
 
-### Active projects
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Phloraxx&show_icons=true&hide_border=true&bg_color=00000000&text_color=586069&icon_color=0366d6&title_color=24292e)](https://github.com/Phloraxx) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phloraxx&layout=compact&hide_border=true&bg_color=00000000&text_color=586069&title_color=24292e)](https://github.com/Phloraxx)
 
-**IEEE Event Management** — Full event platform serving 14 IEEE technical societies. QR check-in, UPI payment verification, automated email workflows, multi-society analytics. Deployed at [ieeesahrdaya.com](https://ieeesahrdaya.com).
+---
 
-**MuLearn SCET** — Campus club website with karma-based task management, peer review workflow, leaderboard, and MuID-integrated Karma War registration. Live at [mulearnscet.in](https://mulearnscet.in).
+### Active Projects
 
-**VisionHack Portal** — Hackathon submission system with cascade inviting (Admin -> Coordinator -> Campus Lead -> Team Lead), bulk CSV onboarding, and idea submission workflow. Powered Vision Hack 2026.
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **IEEE Event Platform** | Full-stack event management for 14 IEEE societies. QR check-in, UPI payment verification, automated email workflows, multi-society analytics. | TypeScript, Appwrite, Docker |
+| **MuLearn SCET** | Campus platform serving 1,000+ students. Real-time leaderboards, automated workshop registration, dynamic team showcases. | Next.js, Appwrite, Docker |
+| **VisionHack Portal** | Hackathon submission platform handling 1,250+ teams across 250 colleges. Cascade invite system, bulk CSV onboarding. | Next.js, Appwrite, Docker, Oracle Cloud ARM |
 
-### Side projects
+### Side Projects
 
-- **Payment API** — Stateless UPI payment gateway on Cloudflare Workers. Dynamic decimal matching, edge WebSocket proxy, Appwrite backend.
-- **CodeResidency** — AI-driven clinical rotation simulator for CS students using LangChain + Gemini + Docker.
-- **V2V Traffic Simulation** — AI-optimized traffic management with collision detection and emergency vehicle priority.
-- **AlertHub** — Flutter issue-reporting app with Firebase and department routing.
-- **8086 Learning Tool** — Interactive drag-and-drop 8086 microprocessor architecture tool.
+| Project | Description |
+|---------|-------------|
+| **Stateless UPI Gateway** | Serverless payment gateway on Cloudflare Workers. Dynamic decimal matching, edge WebSocket proxy, Appwrite backend. |
+| **CodeResidency** | AI-driven clinical rotation simulator. 5-phase assessment pipeline using LangChain, Gemini API, and Docker sandbox. |
+| **V2V Traffic Simulation** | Vehicle-to-Vehicle communication prototype for intelligent traffic management with collision detection. |
+| **AlertHub** | Flutter issue-reporting app. Firebase authentication, image uploads, department-based routing. |
+| **8086 Learning Tool** | Interactive drag-and-drop microprocessor architecture visualizer. |
 
-### Tech focus
+---
 
-TypeScript · React · Next.js · Cloudflare Workers · Appwrite · FastAPI · Flask · Python · Docker · LangChain
+### Tech Focus
 
-### Links
+`TypeScript` `React` `Next.js` `Cloudflare Workers` `Appwrite` `FastAPI` `Python` `Docker` `LangChain` `Git` `CI/CD` `GNU/Linux`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/souravpbijoy)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:souravpbijoy@gmail.com)
+---
+
+[GitHub](https://github.com/Phloraxx) · [LinkedIn](https://linkedin.com/in/SouravPBijoy) · souravpbijoy@gmail.com
