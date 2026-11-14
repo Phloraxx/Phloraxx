@@ -11,17 +11,6 @@ Final-year computer science student at Sahrdaya College of Engineering and Techn
 
 > **Now** — taking `infra-mcp` from release candidate to v1, and maintaining the IEEE Sahrdaya platform.
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Phloraxx/infra-mcp"><img src="assets/infra-mcp.jpg" width="100%" alt="infra-mcp dashboard: connected devices, active sessions and gateway status"></a><br><sub><b>infra-mcp</b> — Rust control plane for AI clients</sub></td>
-<td width="50%"><a href="https://github.com/Phloraxx/payment-api"><img src="assets/paygate.jpg" width="100%" alt="PayGate operator sign-in screen"></a><br><sub><b>PayGate</b> — self-hosted UPI verification</sub></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Phloraxx/AURA"><img src="assets/aura.jpg" width="100%" alt="AURA onboarding: six questions about everyday web tasks"></a><br><sub><b>AURA</b> — accessibility browser for macOS</sub></td>
-<td width="50%"><a href="https://ieeesahrdaya.com/events"><img src="assets/ieee.jpg" width="100%" alt="IEEE Sahrdaya events archive with search and society filters"></a><br><sub><b>IEEE Sahrdaya</b> — event platform for 13 societies</sub></td>
-</tr>
-</table>
-
 ## Selected work
 
 **[infra-mcp](https://github.com/Phloraxx/infra-mcp)** — a private control plane for your own machines. One Rust gateway, signed native agents on macOS, Windows, Linux and Android, an embedded dashboard, and MCP tools whose terminals, jobs and file transfers survive a dropped connection.
