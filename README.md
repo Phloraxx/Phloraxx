@@ -3,17 +3,16 @@
   <img alt="Sourav P Bijoy" src="assets/wordmark-light.svg" width="304">
 </picture>
 
-> Most of what I build ends up in use rather than in a portfolio. Thirteen student societies at Sahrdaya CET run their registrations, payments and door check-in on a platform I maintain. I graduate next year.
+> Most of what I build ends up in use rather than in a portfolio. Thirteen student societies at Sahrdaya CET run their registrations, payments and door check-in on [a platform I maintain](https://ieeesahrdaya.com).
 
 [LinkedIn](https://www.linkedin.com/in/SouravPBijoy) · [email](mailto:souravpbijoy@gmail.com) · [ieeesahrdaya.com](https://ieeesahrdaya.com)
 
-**Also in production:** [pay.mulearnscet.in](https://pay.mulearnscet.in) — PayGate verifying live UPI payments · [Vision Hack 2026](https://visionhack.mulearn.org) — 1,250+ teams across 250 colleges · [mulearnscet.in](https://mulearnscet.in) — campus platform
+**In production:** [pay.mulearnscet.in](https://pay.mulearnscet.in) · [Vision Hack 2026](https://visionhack.mulearn.org) · [mulearnscet.in](https://mulearnscet.in) · [MCflare releases](https://github.com/Phloraxx/mcflare/releases/latest)
 
 ## Currently
 
 - Final-year CS at Sahrdaya CET. Webmaster at IEEE Sahrdaya, Tech Lead at MuLearn SCET.
-- Keeping [PayGate](https://github.com/Phloraxx/payment-api) honest while it verifies live UPI payments, and [MCflare](https://github.com/Phloraxx/mcflare) while servers run through it.
-- Building [infra-mcp](https://github.com/Phloraxx/infra-mcp), the control plane I used to push this README.
+- Maintaining [PayGate](https://github.com/Phloraxx/payment-api) and [MCflare](https://github.com/Phloraxx/mcflare); building [infra-mcp](https://github.com/Phloraxx/infra-mcp), the control plane I used to push this README.
 
 ## Projects
 
