@@ -3,7 +3,7 @@
   <img alt="Sourav P Bijoy" src="assets/wordmark-light.svg" width="304">
 </picture>
 
-I build payment infrastructure, event platforms, and the tooling that keeps them running.
+I build payment infrastructure, event platforms, and the tooling that keeps them running.<br>
 Final-year computer science student at Sahrdaya College of Engineering and Technology, Kerala.
 
 <a href="mailto:souravpbijoy@gmail.com">email</a> · <a href="https://linkedin.com/in/SouravPBijoy">linkedin</a> · <a href="https://ieeesahrdaya.com">ieee sahrdaya</a> · <a href="https://mulearnscet.in">mulearn scet</a>
