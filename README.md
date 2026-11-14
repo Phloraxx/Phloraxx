@@ -2,8 +2,6 @@
 
 # Sourav P Bijoy
 
-### Self-hosted infrastructure that runs real events with real money.
-
 [LinkedIn](https://www.linkedin.com/in/SouravPBijoy) · [email](mailto:souravpbijoy@gmail.com) · [ieeesahrdaya.com](https://ieeesahrdaya.com)
 
 </div>
