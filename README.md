@@ -16,22 +16,20 @@
 
 ## Projects
 
-- **[PayGate](https://github.com/Phloraxx/payment-api)** — UPI payment verification without a payment processor:
+| | |
+| --- | --- |
+| **[PayGate](https://github.com/Phloraxx/payment-api)**<br>UPI payments without a payment processor<br>`Go` `SQLite` `Android` | **[MCflare](https://github.com/Phloraxx/mcflare)**<br>Minecraft Java behind Cloudflare, nothing for players to install<br>`Java` `Fabric` `NeoForge` `Paper` |
+| **[infra-mcp](https://github.com/Phloraxx/infra-mcp)**<br>One Rust gateway, signed agents on macOS, Windows, Linux and Android<br>`Rust` `Axum` `SQLite` | **[IEEE Sahrdaya platform](https://github.com/Phloraxx/IEEE-sahrdayaCET)**<br>The site, events, certificates and admin tools<br>`React Router` `PocketBase` `Docker` |
+| **[VisionHack Submission Portal](https://github.com/Phloraxx/VisionHack_Submission-Portal)**<br>Submissions for a 1,250+-team hackathon, through a cascade: Admin → Campus Lead → Team Lead → Submission<br>`React Router` `PocketBase` `JWT` | **[ReFlow](https://github.com/Phloraxx/reflow)**<br>Settlement reconciliation that proves where every rupee went<br>`Python` `FastAPI` |
+| **[AgentX](https://github.com/Phloraxx/AgentX)**<br>Three LLM agents break your code on purpose, you learn to fix it<br>`LangGraph` `FastAPI` `React` | **[AURA](https://github.com/Phloraxx/AURA) · [CodeResidency](https://github.com/Phloraxx/CodeResidency) · [Shipyard](https://github.com/Phloraxx/Shipyard-public)**<br>Smaller things |
 
-  ```text
-  payer ─₹500.37─▶ UPI
-  UPI ─notification─▶ relay phone
-  relay ─signed─▶ server ─webhook─▶ you
-  ```
+**How PayGate knows an anonymous transfer is yours:**
 
-- **[MCflare](https://github.com/Phloraxx/mcflare)** — Minecraft Java behind Cloudflare, with nothing for players to install. Java.
-- **[infra-mcp](https://github.com/Phloraxx/infra-mcp)** — one Rust gateway, signed agents on macOS, Windows, Linux and Android.
-- **[IEEE Sahrdaya platform](https://github.com/Phloraxx/IEEE-sahrdayaCET)** — the site, events, certificates and admin tools. React Router v7 · PocketBase · Docker.
-- **[VisionHack Submission Portal](https://github.com/Phloraxx/VisionHack_Submission-Portal)** — submissions for a 1,250+-team hackathon, through a cascade: Admin → Campus Lead → Team Lead → Submission. React Router · PocketBase · JWT.
-- **[ReFlow](https://github.com/Phloraxx/reflow)** — settlement reconciliation that proves where every rupee went. 317/317 on an adversarial workload.
-- **[AgentX](https://github.com/Phloraxx/AgentX)** — three LLM agents break your code on purpose, you learn to fix it.
-
-Also: [AURA](https://github.com/Phloraxx/AURA) · [CodeResidency](https://github.com/Phloraxx/CodeResidency) · [Shipyard](https://github.com/Phloraxx/Shipyard-public)
+```text
+payer ─₹500.37─▶ UPI
+UPI ─notification─▶ relay phone
+relay ─signed─▶ server ─webhook─▶ you
+```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phloraxx/Phloraxx/output/github-snake-dark.svg">
