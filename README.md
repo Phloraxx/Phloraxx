@@ -21,11 +21,11 @@ Thirteen student societies at Sahrdaya CET run their registrations and payments 
 
 ## Also
 
-**[MCflare](https://github.com/Phloraxx/mcflare)** — Minecraft behind Cloudflare, no client mods.
-**[ReFlow](https://github.com/Phloraxx/reflow)** — settlement reconciliation. 317/317 on an adversarial workload.
-**[VisionHack portal](https://portal.mulearn.org)** — hackathon submissions, four-level invite chain.
-**[µLearn SCET](https://mulearnscet.in)** — karma tasks, peer review, leaderboards.
-**[CodeResidency](https://github.com/Phloraxx/CodeResidency)** — clinical rotations, sandboxed.
+**[MCflare](https://github.com/Phloraxx/mcflare)** — Minecraft behind Cloudflare, no client mods.<br>
+**[ReFlow](https://github.com/Phloraxx/reflow)** — settlement reconciliation. 317/317 on an adversarial workload.<br>
+**[VisionHack portal](https://portal.mulearn.org)** — hackathon submissions, four-level invite chain.<br>
+**[µLearn SCET](https://mulearnscet.in)** — karma tasks, peer review, leaderboards.<br>
+**[CodeResidency](https://github.com/Phloraxx/CodeResidency)** — clinical rotations, sandboxed.<br>
 **[AgentX](https://github.com/Phloraxx/AgentX)** — Write → Sabotage → Fix, three LLM agents.
 
 ## Tools
