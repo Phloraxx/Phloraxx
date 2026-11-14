@@ -8,9 +8,9 @@
 Most of what I build ends up in use rather than in a portfolio. [PayGate](https://pay.mulearnscet.in) verifies UPI transfers without ever holding the money:
 
 ```
-payer ──₹500.37──▶ UPI
-UPI ──notification──▶ relay phone
-relay ──signed──▶ server ──webhook──▶ you
+payer ─₹500.37─▶ UPI
+UPI ─notification─▶ relay phone
+relay ─signed─▶ server ─webhook─▶ you
 ```
 
 [infra-mcp](https://github.com/Phloraxx/infra-mcp) is a Rust control plane for machines you own instead of rent. [AURA](https://github.com/Phloraxx/AURA) is an accessibility browser that rebuilds pages around one person, and doesn't ask for a diagnosis first.
