@@ -33,18 +33,6 @@
 
 Also: [AURA](https://github.com/Phloraxx/AURA) · [CodeResidency](https://github.com/Phloraxx/CodeResidency) · [VisionHack Submission Portal](https://github.com/Phloraxx/VisionHack_Submission-Portal) · [Shipyard](https://github.com/Phloraxx/Shipyard-public)
 
-<div align="center">
-  <a href="https://github.com/Phloraxx/infra-mcp"><img src="https://raw.githubusercontent.com/Phloraxx/infra-mcp/main/docs/previews/dark/overview-desktop.png" alt="infra-mcp dashboard" width="49%"></a>
-  <a href="https://github.com/Phloraxx/AURA"><img src="https://raw.githubusercontent.com/Phloraxx/AURA/main/docs/assets/readme/learn-me.jpg" alt="AURA browser" width="49%"></a>
-  <br/>
-  <a href="https://github.com/Phloraxx/IEEE-sahrdayaCET"><img src="https://raw.githubusercontent.com/Phloraxx/IEEE-sahrdayaCET/main/public/web.png" alt="IEEE Sahrdaya website" width="98%"></a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Phloraxx&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phloraxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" height="150" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phloraxx/Phloraxx/output/github-snake-dark.svg">
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Phloraxx/Phloraxx/output/github-snake.svg">
