@@ -53,7 +53,7 @@ Final-year computer science student at Sahrdaya College of Engineering and Techn
 
 - **Languages** — TypeScript, Python, Rust, Go, Java, Kotlin, Swift
 - **Frontend** — React, React Router, Next.js, Tailwind, Vite
-- **Backend** — FastAPI, Flask, axum, SQLite, PostgreSQL
+- **Backend and data** — FastAPI, Flask, axum, SQLite, PostgreSQL
 - **Platform** — Docker, Cloudflare Workers, GitHub Actions, PocketBase, Appwrite
 - **AI** — LangGraph, LangChain, local models via Ollama
 
