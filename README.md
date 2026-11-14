@@ -3,47 +3,34 @@
   <img alt="Sourav P Bijoy" src="assets/wordmark-light.svg" width="304">
 </picture>
 
-I build payment infrastructure, event platforms, and the tooling that keeps them running.<br>
-Final-year computer science student at Sahrdaya College of Engineering and Technology, Kerala.
+Thirteen student societies at Sahrdaya CET run their registrations and payments on software I wrote. I'm a final-year CS student, which is a strange amount of responsibility for someone who still has homework.
 
 <a href="mailto:souravpbijoy@gmail.com">email</a> · <a href="https://linkedin.com/in/SouravPBijoy">linkedin</a> · <a href="https://ieeesahrdaya.com">ieee sahrdaya</a> · <a href="https://mulearnscet.in">mulearn scet</a>
 
-> **Now** — taking `infra-mcp` from release candidate to v1, and maintaining the IEEE Sahrdaya platform.
+> **Now** — shipping `infra-mcp` v1, and keeping thirteen societies' registrations alive through another event season.
 
-## Selected work
+## What I've shipped
 
-**[infra-mcp](https://github.com/Phloraxx/infra-mcp)** — a private control plane for your own machines. One Rust gateway, signed native agents on macOS, Windows, Linux and Android, an embedded dashboard, and MCP tools whose terminals, jobs and file transfers survive a dropped connection.
+**[infra-mcp](https://github.com/Phloraxx/infra-mcp)** — a control plane for your own machines, because "let an AI drive your computer" shouldn't mean an SSH wrapper around one box. Rust gateway, signed agents on four platforms, MCP tools that survive a disconnect. [releases](https://github.com/Phloraxx/infra-mcp/releases)
 
-<sub>`Rust` · `axum` · `MCP` · `MIT` · [releases](https://github.com/Phloraxx/infra-mcp/releases)</sub>
+**[PayGate](https://github.com/Phloraxx/payment-api)** — UPI verification for college events. Unique payable amounts, revocable Android relays, and it never touches the money. [live](https://pay.mulearnscet.in)
 
-**[PayGate](https://github.com/Phloraxx/payment-api)** — self-hosted UPI verification. Every payment gets a unique payable amount; notifications arrive through independently revocable Android relays; a payment only changes state when the server holds evidence it can attribute to a real origin. No funds pass through it.
+**[AURA](https://github.com/Phloraxx/AURA)** — an accessibility browser that learns how one person uses the web and rebuilds the page around them. It doesn't ask for a diagnosis first. [v0.1.0](https://github.com/Phloraxx/AURA/releases/latest)
 
-<sub>`Go` · `SQLite` · `Android` · `AGPL-3.0` · [live](https://pay.mulearnscet.in)</sub>
+**[IEEE Sahrdaya](https://ieeesahrdaya.com)** — registrations, check-in, payments and certificates for 13 societies. A registration is a transaction: if a step fails, no seat is reserved. [source](https://github.com/Phloraxx/IEEE-sahrdayaCET)
 
-**[AURA](https://github.com/Phloraxx/AURA)** — an accessibility browser that learns how one person uses the web, reads the page in front of them, and recomposes it around their needs. Reversible, and without asking for a diagnosis first.
+## Also
 
-<sub>`Electron` · `React` · `TypeScript` · [v0.1.0](https://github.com/Phloraxx/AURA/releases/latest)</sub>
+**[MCflare](https://github.com/Phloraxx/mcflare)** — Minecraft behind Cloudflare, no client mods.
+**[ReFlow](https://github.com/Phloraxx/reflow)** — settlement reconciliation. 317/317 on an adversarial workload.
+**[VisionHack portal](https://portal.mulearn.org)** — hackathon submissions, four-level invite chain.
+**[µLearn SCET](https://mulearnscet.in)** — karma tasks, peer review, leaderboards.
+**[CodeResidency](https://github.com/Phloraxx/CodeResidency)** — clinical rotations, sandboxed.
+**[AgentX](https://github.com/Phloraxx/AgentX)** — Write → Sabotage → Fix, three LLM agents.
 
-**[IEEE Sahrdaya](https://ieeesahrdaya.com)** — the platform behind 13 IEEE societies: registrations, QR check-in, UPI verification, certificates and receipts. A registration is a transaction; if any step fails, no seat is reserved.
+## Tools
 
-<sub>`React Router` · `PocketBase` · `TypeScript` · [source](https://github.com/Phloraxx/IEEE-sahrdayaCET)</sub>
-
-## Also built
-
-- **[MCflare](https://github.com/Phloraxx/mcflare)** — puts a Minecraft Java server behind Cloudflare without asking players to install a tunnel, VPN or launcher. Fabric, Quilt, NeoForge and Paper builds.
-- **[ReFlow](https://github.com/Phloraxx/reflow)** — evidence-first settlement reconciliation. Compiles merchant, gateway and bank records into a money graph, then emits a machine-verifiable proof. 317/317 correct on a 500-settlement adversarial workload.
-- **[VisionHack portal](https://portal.mulearn.org)** — hackathon submissions across a four-level invite chain, with JWT sessions, rate limiting and CSV export. [Source](https://github.com/Phloraxx/VisionHack_Submission-Portal)
-- **[µLearn SCET](https://mulearnscet.in)** — campus site with karma-based tasks, peer review and leaderboards. [Source](https://github.com/Phloraxx/MuLearn-Scet-Webpage)
-- **[CodeResidency](https://github.com/Phloraxx/CodeResidency)** — clinical rotation simulator for CS students, five phases on LangChain and Gemini with Docker-sandboxed execution.
-- **[AgentX](https://github.com/Phloraxx/AgentX)** — a Write → Sabotage → Fix debugging trainer run by three LLM agents.
-
-## Stack
-
-- **Languages** — TypeScript, Python, Rust, Go, Java, Kotlin, Swift
-- **Frontend** — React, React Router, Next.js, Tailwind, Vite
-- **Backend and data** — FastAPI, Flask, axum, SQLite, PostgreSQL
-- **Platform** — Docker, Cloudflare Workers, GitHub Actions, PocketBase, Appwrite
-- **AI** — LangGraph, LangChain, local models via Ollama
+TypeScript, Python, Rust, Go. Docker and Cloudflare when it has to run somewhere; Postgres when it has to survive, SQLite when it doesn't.
 
 ---
 
