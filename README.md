@@ -5,14 +5,11 @@
 I build payment infrastructure, event platforms, and the tooling that keeps them running.
 Final-year computer science student at Sahrdaya College of Engineering and Technology, Kerala.
 
-<a href="mailto:souravpbijoy@gmail.com">email</a> ·
-<a href="https://linkedin.com/in/SouravPBijoy">linkedin</a> ·
-<a href="https://ieeesahrdaya.com">ieee sahrdaya</a> ·
-<a href="https://mulearnscet.in">mulearn scet</a>
+<a href="mailto:souravpbijoy@gmail.com">email</a> · <a href="https://linkedin.com/in/SouravPBijoy">linkedin</a> · <a href="https://ieeesahrdaya.com">ieee sahrdaya</a> · <a href="https://mulearnscet.in">mulearn scet</a>
 
 </div>
 
-> **Now** — taking `infra-mcp` from release candidate to v1, and running the IEEE Sahrdaya platform through its event season.
+> **Now** — taking `infra-mcp` from release candidate to v1, and maintaining the IEEE Sahrdaya platform.
 
 <table>
 <tr>
@@ -54,7 +51,7 @@ The platform behind 13 IEEE societies: registrations, QR check-in, UPI verificat
 ## Also built
 
 - **[MCflare](https://github.com/Phloraxx/mcflare)** — puts a Minecraft Java server behind Cloudflare without asking players to install a tunnel, VPN or launcher. Fabric, Quilt, NeoForge and Paper builds.
-- **[ReFlow](https://github.com/Phloraxx/reflow)** — evidence-first settlement reconciliation. Compiles merchant, gateway and bank records into a money graph, then emits a machine-verifiable proof. 317/317 automatic decisions correct on a 500-settlement adversarial workload.
+- **[ReFlow](https://github.com/Phloraxx/reflow)** — evidence-first settlement reconciliation. Compiles merchant, gateway and bank records into a money graph, then emits a machine-verifiable proof. 317/317 correct on a 500-settlement adversarial workload.
 - **[VisionHack portal](https://portal.mulearn.org)** — hackathon submissions across a four-level invite chain, with JWT sessions, rate limiting and CSV export. [Source](https://github.com/Phloraxx/VisionHack_Submission-Portal)
 - **[µLearn SCET](https://mulearnscet.in)** — campus site with karma-based tasks, peer review and leaderboards. [Source](https://github.com/Phloraxx/MuLearn-Scet-Webpage)
 - **[CodeResidency](https://github.com/Phloraxx/CodeResidency)** — clinical rotation simulator for CS students, five phases on LangChain and Gemini with Docker-sandboxed execution.
