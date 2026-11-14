@@ -1,3 +1,5 @@
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
   <img alt="Sourav P Bijoy" src="assets/wordmark-light.svg" width="304">
@@ -9,6 +11,8 @@
 
 **In production:** [pay.mulearnscet.in](https://pay.mulearnscet.in) · [mulearnscet.in](https://mulearnscet.in) · [MCflare releases](https://github.com/Phloraxx/mcflare/releases/latest)
 
+</div>
+
 ## Currently
 
 - Final-year CS at Sahrdaya CET. Webmaster at IEEE Sahrdaya, Tech Lead at MuLearn SCET.
@@ -18,18 +22,10 @@
 
 | | |
 | --- | --- |
-| **[PayGate](https://github.com/Phloraxx/payment-api)**<br>UPI payments without a payment processor<br>`Go` `SQLite` `Android` | **[MCflare](https://github.com/Phloraxx/mcflare)**<br>Minecraft Java behind Cloudflare, nothing for players to install<br>`Java` `Fabric` `NeoForge` `Paper` |
-| **[infra-mcp](https://github.com/Phloraxx/infra-mcp)**<br>One Rust gateway, signed agents on macOS, Windows, Linux and Android<br>`Rust` `Axum` `SQLite` | **[IEEE Sahrdaya platform](https://github.com/Phloraxx/IEEE-sahrdayaCET)**<br>The site, events, certificates and admin tools<br>`React Router` `PocketBase` `Docker` |
-| **[VisionHack Submission Portal](https://github.com/Phloraxx/VisionHack_Submission-Portal)**<br>Submissions for a 1,250+-team hackathon, through a cascade: Admin → Campus Lead → Team Lead → Submission<br>`React Router` `PocketBase` `JWT` | **[ReFlow](https://github.com/Phloraxx/reflow)**<br>Settlement reconciliation that proves where every rupee went<br>`Python` `FastAPI` |
-| **[AgentX](https://github.com/Phloraxx/AgentX)**<br>Three LLM agents break your code on purpose, you learn to fix it<br>`LangGraph` `FastAPI` `React` | **[AURA](https://github.com/Phloraxx/AURA) · [CodeResidency](https://github.com/Phloraxx/CodeResidency) · [Shipyard](https://github.com/Phloraxx/Shipyard-public)**<br>Smaller things |
-
-**How PayGate knows an anonymous transfer is yours:**
-
-```text
-payer ─₹500.37─▶ UPI
-UPI ─notification─▶ relay phone
-relay ─signed─▶ server ─webhook─▶ you
-```
+| **[PayGate](https://github.com/Phloraxx/payment-api)**<br>UPI payments without a payment processor<br>`Go` `SQLite` `Android` | **[MCflare](https://github.com/Phloraxx/mcflare)**<br>Minecraft behind Cloudflare, nothing to install<br>`Java` `Fabric` `Paper` |
+| **[infra-mcp](https://github.com/Phloraxx/infra-mcp)**<br>One Rust gateway, signed agents on four platforms<br>`Rust` `Axum` `SQLite` | **[IEEE Sahrdaya platform](https://github.com/Phloraxx/IEEE-sahrdayaCET)**<br>The site, events, certificates and admin tools<br>`React Router` `PocketBase` `Docker` |
+| **[VisionHack Submission Portal](https://github.com/Phloraxx/VisionHack_Submission-Portal)**<br>Hackathon submissions through a cascade of invites<br>`React Router` `PocketBase` `JWT` | **[ReFlow](https://github.com/Phloraxx/reflow)**<br>Settlement reconciliation with verifiable proofs<br>`Python` `FastAPI` |
+| **[AgentX](https://github.com/Phloraxx/AgentX)**<br>Three LLM agents break your code on purpose<br>`LangGraph` `FastAPI` `React` | **[AURA](https://github.com/Phloraxx/AURA) · [CodeResidency](https://github.com/Phloraxx/CodeResidency) · [Shipyard](https://github.com/Phloraxx/Shipyard-public)**<br>Smaller things |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phloraxx/Phloraxx/output/github-snake-dark.svg">
