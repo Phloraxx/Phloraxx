@@ -45,7 +45,7 @@ Puts a Minecraft Java server behind Cloudflare without asking players to install
 
 An accessibility browser that learns how one person uses the web, reads the page in front of them, and recomposes it around their needs — reversibly, and without asking for a diagnosis first.
 
-<sub>`Electron` · `React` · `TypeScript` · `local models`</sub>
+<sub>`Electron` · `React` · `TypeScript` · `local models` · [download](https://github.com/Phloraxx/AURA/releases/latest)</sub>
 
 ## Also built
 
