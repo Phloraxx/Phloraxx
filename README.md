@@ -11,55 +11,54 @@
 
 <h2 align="center">Projects</h2>
 
-<table>
-  <tr>
-    <td width="50%">
-
-    **[PayGate](https://github.com/Phloraxx/payment-api)**<br>UPI payments without a payment processor<br>`Go` `SQLite` `Android`
-
-    </td>
-    <td width="50%">
-
-    **[MCflare](https://github.com/Phloraxx/mcflare)**<br>Minecraft behind Cloudflare, nothing to install<br>`Java` `Fabric` `Paper`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-    **[infra-mcp](https://github.com/Phloraxx/infra-mcp)**<br>One Rust gateway, signed agents on four platforms<br>`Rust` `Axum` `SQLite`
-
-    </td>
-    <td width="50%">
-
-    **[IEEE Sahrdaya platform](https://github.com/Phloraxx/IEEE-sahrdayaCET)**<br>The site, events, certificates and admin tools<br>`React Router` `PocketBase` `Docker`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-    **[VisionHack Submission Portal](https://github.com/Phloraxx/VisionHack_Submission-Portal)**<br>Hackathon submissions through a cascade of invites<br>`React Router` `PocketBase` `JWT`
-
-    </td>
-    <td width="50%">
-
-    **[ReFlow](https://github.com/Phloraxx/reflow)**<br>Settlement reconciliation with verifiable proofs<br>`Python` `FastAPI`
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-    **[AgentX](https://github.com/Phloraxx/AgentX)**<br>Three LLM agents break your code on purpose<br>`LangGraph` `FastAPI` `React`
-
-    </td>
-    <td width="50%">
-
-    **[AURA](https://github.com/Phloraxx/AURA) · [CodeResidency](https://github.com/Phloraxx/CodeResidency) · [Shipyard](https://github.com/Phloraxx/Shipyard-public)**<br>Smaller things
-
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/payment-api">PayGate</a></strong><br>
+UPI payments without a payment processor<br>
+<code>Go</code> <code>SQLite</code> <code>Android</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/mcflare">MCflare</a></strong><br>
+Minecraft behind Cloudflare, nothing to install<br>
+<code>Java</code> <code>Fabric</code> <code>Paper</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/infra-mcp">infra-mcp</a></strong><br>
+One Rust gateway, signed agents on four platforms<br>
+<code>Rust</code> <code>Axum</code> <code>SQLite</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/IEEE-sahrdayaCET">IEEE Sahrdaya platform</a></strong><br>
+The site, events, certificates and admin tools<br>
+<code>React Router</code> <code>PocketBase</code> <code>Docker</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/VisionHack_Submission-Portal">VisionHack Submission Portal</a></strong><br>
+Hackathon submissions through a cascade of invites<br>
+<code>React Router</code> <code>PocketBase</code> <code>JWT</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/reflow">ReFlow</a></strong><br>
+Settlement reconciliation with verifiable proofs<br>
+<code>Python</code> <code>FastAPI</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/AgentX">AgentX</a></strong><br>
+Three LLM agents break your code on purpose<br>
+<code>LangGraph</code> <code>FastAPI</code> <code>React</code>
+</td>
+<td width="50%" valign="top">
+<strong><a href="https://github.com/Phloraxx/AURA">AURA</a> · <a href="https://github.com/Phloraxx/CodeResidency">CodeResidency</a> · <a href="https://github.com/Phloraxx/Shipyard-public">Shipyard</a></strong><br>
+Smaller things
+</td>
+</tr>
 </table>
 
 </div>
